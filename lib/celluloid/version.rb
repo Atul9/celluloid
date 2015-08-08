@@ -1,3 +1,3 @@
 module Celluloid
-  VERSION = "0.17.1.2"
+  VERSION = "0.18.0.pre"
 end
